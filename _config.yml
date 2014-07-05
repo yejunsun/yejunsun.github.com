@@ -29,7 +29,7 @@ nav:
 author:
     name: 孙业军
     email: super_thinker@126.com 
-    imageLink: http://tp2.sinaimg.cn/1832671293/180/40020872447/1
+    imageLink: http://pic.yupoo.com/superthinker/DSPrrOKi/oa6tC.jpg
     simpleIntro: 一个互联网垃圾倾倒者。一个渐渐成为其他人得其他人。
     detailIntro:
       <p>我一直认为水平太低的人在互联网上发表任何文章都是在往互联网上倾倒垃圾，浪费搜索引擎的电量，浪费广大苦逼码农的时间.当我写下这个的时候，我感到无比羞愧，为了装B的技术，为了装纯的写作水平，为了莫名的虚名，我竟然也可耻的跟其他人一样了.
@@ -53,8 +53,6 @@ follow:
 #Links
 customLinks:
   - item:
-    - text: 掌心
-      url: http://www.zhanxin.info
     - text: Jekyll
       url: http://jekyllrb.com
     - text: Jekyll Theme
