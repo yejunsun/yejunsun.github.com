@@ -2,7 +2,7 @@
 layout: post
 title: "jekyll quick start"
 description: ""
-category: 
+category: "jekyll"
 tags: []
 ---
 

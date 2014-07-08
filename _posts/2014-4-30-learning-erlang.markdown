@@ -2,7 +2,7 @@
 layout: post
 title:  Learnning Erlang
 date:   2014-04-30 01:46:11
-category: "主题"
+category: "learning erlang"
 ---
 
 # Learnning Erlang
