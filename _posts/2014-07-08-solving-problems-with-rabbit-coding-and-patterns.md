@@ -6,6 +6,8 @@ category: "RabbitMQ in Action 学习笔记"
 tags: []
 ---
 
+rabbitmq 的几个应用场景
+
 ## brief contents 前言
 
 ### This chapter covers 这一章主要涵盖
@@ -15,6 +17,9 @@ tags: []
 > - RPC with RabbitMQ
 
 ### RabbitMQ 的几种应用场景
+
+0.架构图
+![Alt text](http://pic.yupoo.com/superthinker/DTqNHadr/AgDoP.jpg)
 
 1. decoupling problems 应用于系统间的解耦
 
@@ -32,4 +37,7 @@ tags: []
 > 花大量的时间改写系统的所有代码，使其变为一个异步程序
 > 或者使用Mq改写 少量代码
 
-## 
+## 解耦问题
+
+> 异步思维 （分离请求与动作）
+> 自有的loadblance
