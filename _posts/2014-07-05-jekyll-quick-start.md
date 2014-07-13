@@ -36,3 +36,10 @@ $ rake page name="pages/about"
 
 this will create the file: ./pages/about/index.html
 The rake task automatically creates a page file with properly formatted filename and YAML Front Matter as well as includes the Jekyll Bootstrap "setup" file.
+
+### Get a preview of a page's content
+
+```
+{\{ post.content | strip_html | truncatewords: 50 \}}
+```
+
